@@ -1,0 +1,18 @@
+# Testes envolvendo OCR
+# imagem processada: arquivo OviolinistaMECWp22-shot20191220.jpg, foto tirada na USP a 2019-12-20
+# Marx & Engels Collected Works, International Publishers, New York, 1975, v.I, p.22
+# Trecho de The Fiddler (O violinista), 1837, escrito por Karl Marx
+# Compilacao: https://marxists.architexturez.net/archive/marx/works/1837-pre/marx/1837-wil.htm
+# Parte final traduzida para o portugues: https://mises.org.br/ArticlePrint.aspx?id=1405 
+# Compilacao publicada no sitio acima
+p "Why_do_I_fiddle?_Or_the_wild_waves_roar?_/_That_they_might_pound_the_rocky_shore,_/_That_eye_be_blinded,_that_bosom_swell,_/_That_Soul's_cry_carry_down_to_Hell."_/_"Fiddler,_with_scorn_you_rend_your_heart._/_A_radiant_God_lent_you_your_art,_/_To_dazzle_with_waves_of_melody,_/_To_soar_to_the_star-dance_in_the_sky."_/_"How_so!_I_plunge,_plunge_without_fail_/_My_blood-black_sabre_into_your_soul._/_That_art_God_neither_wants_nor_wists,_/_It_leaps_to_the_brain_from_Hell's_black_mists._/_"Till_heart's_bewitched,_till_senses_reel:_/_With_Satan_I_have_struck_my_deal._/_He_chalks_the_signs,_beats_time_for_me,__/_I_play_the_death_march_fast_and_free.
+# Leitura OCR, primeiro metodo
+p "Why_do_I_fiddle?_Or_the_wild_waves_roar?_/_That_they_might_pound_the_rocky_shore,_/_That_eye_be_blinded,_that_bosom_swell,_/_That_Soul's_cry_carry_down_to_Hell."_/_"Fiddler,_with_scorn_you_rend_your_heart._/_A_radiant_God_lent_you_your_art,_/_To_dazzle_with_waves_of_melody,_/_To_soar_to_the_star-dance_in_the_sky."_/_"How_so!_I_plunge,_plunge_without_fail_/_My_blood-black_sabre_into_your_soul._/_That_art_God_neither_wants_nor_wists,_/_It_leaps_to_the_brain_from_Hell's_black_mis____/_"Till_heart's_bewitched,_till_senses_reel:_/_With_Satan_I_have_struck_my_deal._/_He_chalks_the_signs,_beats_time_for_mro__/_I_play_the_death_march_fast_and_free.
+# Leitura OCR, segundo metodo
+p "Why_do_I_fiddle?_Or_the_wild_waves_roar?_/_That_they_might_pound_the_rocky_shore,_/_That_eye_be_blinded,_that_bosom_swell,_/_That_Soul's_cry_carry_down_to_Hell."_/_"Fiddler,_with_scorn_you_rend_your_heart._/_A_radiant_God_lent_you_your_art,_/_To_dazzle_with_waves_of_melody,_/_To_soar_to_the_star-dance_in_the_sky."_/_"How_so!_I_plunge,_plunge_without_fail_/_My_blood-black_sabre_into_your_soul._/_That_art_God_neither_wants_nor_wists,_/_It_leaps_to_the_brain_from_Hell's_black_musts._/_"Till_heart's_bewitched,_till_senses_reel:_/_With_Satan_I_have_struck_my_deal._/_He_chalks_the_signs,_beats_time_for_tmro_/_a_play_the_death_march_fast_and_free.
+m "
+P 0
+g
+d
+b
+q

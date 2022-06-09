@@ -1,0 +1,12 @@
+# Exemplo da tabela 6.2, p. 180, livro Meidanis & Setubal. Caracteristicas compativeis
+p P:c1=0,c2=0,c3=0,c4=0,c5=0,c6=0
+p A:c1=0,c2=0,c3=0,c4=1,c5=1,c6=0
+p B:c1=1,c2=1,c3=0,c4=0,c5=0,c6=0
+p C:c1=0,c2=0,c3=0,c4=1,c5=1,c6=1
+p D:c1=1,c2=0,c3=1,c4=0,c5=0,c6=0
+p E:c1=0,c2=0,c3=0,c4=1,c5=0,c6=0
+P 0
+g
+d
+i
+q

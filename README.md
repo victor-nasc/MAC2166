@@ -1,5 +1,5 @@
 # MAC2166
-<h2>Introdução à Computação (Engenharia de Computação)</h2>
+<h2>Introdução à Computação (Engenharia - Grande área elétrica)</h2>
 
 <h3>Programas em C desenvolvidos para a disciplina MAC2166 na POLI-USP em 2021/1</h3>
 <h3>Ministrada por Alair Pereira do Lago</h3>
